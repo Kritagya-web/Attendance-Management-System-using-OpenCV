@@ -33,13 +33,12 @@ pip install opencv-python face_recognition numpy
 
 step 1 - Clone the repository to your local machine:
 ```
-git clone https://github.com/Attendance-Management-System-Open-CV/Attendance-Management-System-using-OpenCV.git
+git clone https://github.com/Kritagya-web/Attendance-Management-System-using-OpenCV.git
 ```
 step 2- Navigate to the project directory:
 ```
 cd Attendance-Management-System-using-OpenCV
 ```
-
 step 3 - Run the main script:
 
 ```
